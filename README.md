@@ -6,5 +6,5 @@ https://explorer.co.uk/blog/
 
 ## Preview ##
 
-![Preview](Preview.gif)
+![Preview](preview.gif)
 
